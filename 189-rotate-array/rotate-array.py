@@ -10,14 +10,14 @@ class Solution:
             l = l + 1
             r = r - 1
         
-        l, r = 0, k-1
+        l, r = 0, k-1 # Rotate the first part of the list
         while l<r: 
             nums[l], nums[r] = nums[r], nums[l]
             l = l + 1
             r = r - 1
         
         l, r = k, len(nums)-1
-        while l<r:
+        while l<r: # Rotate the last part of the list
             nums[l], nums[r] = nums[r], nums[l]
             l = l + 1
             r = r - 1
