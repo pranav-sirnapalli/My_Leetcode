@@ -20,7 +20,7 @@ class Solution:
                 nodes.append(node.val)
                 if(node.left):
                     q.append(node.left)
-                if(node.right != None):
+                if(node.right):
                     q.append(node.right)
             result.insert(0, nodes)
         return result
