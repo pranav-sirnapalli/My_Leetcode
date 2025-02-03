@@ -21,9 +21,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
