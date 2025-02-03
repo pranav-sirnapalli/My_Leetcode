@@ -34,9 +34,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
