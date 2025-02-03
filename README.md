@@ -15,4 +15,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
 <!---LeetCode Topics End-->
