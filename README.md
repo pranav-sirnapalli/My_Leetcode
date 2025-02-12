@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
@@ -68,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+## Simulation
+|  |
+| ------- |
+| [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->
