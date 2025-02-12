@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0205-isomorphic-strings](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -18,22 +19,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
