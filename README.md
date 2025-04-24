@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -127,4 +130,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
