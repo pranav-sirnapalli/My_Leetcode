@@ -12,7 +12,7 @@ class Solution:
                 return -1
 
             queue = deque([root])
-            max_sum = float('-inf')
+            max_sum = -inf
             max_level = 0
             current_level = 0
 
