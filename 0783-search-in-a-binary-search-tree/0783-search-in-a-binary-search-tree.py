@@ -12,7 +12,7 @@ class Solution:
             return root
 
         elif root.val > val:
-            return self.searchBST(root.left, val)
+            return self.searchBST( root.left, val)
         else:
             return self.searchBST(root.right, val)
-        
+    
