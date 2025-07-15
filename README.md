@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0551-student-attendance-record-i) |
+| [3396-valid-word](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3396-valid-word) |
 ## Array
 |  |
 | ------- |
