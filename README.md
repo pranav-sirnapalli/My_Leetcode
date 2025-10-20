@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0551-student-attendance-record-i) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3396-valid-word](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3396-valid-word) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0054-spiral-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Counting
 |  |
