@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0205-isomorphic-strings](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0551-student-attendance-record-i) |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
