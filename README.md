@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0198-house-robber) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
