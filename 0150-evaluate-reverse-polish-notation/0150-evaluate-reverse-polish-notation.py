@@ -2,18 +2,17 @@ class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         st = []
 
-        for c in tokens:
-            if c == '+':
-                st.append(st.pop() + st.pop())
-            elif c == '-':
+        for ch in tokens:
+            if ch == '+':
+                st.append(st.pop()+st.pop())
+            elif ch == '-':
                 second, first = st.pop(), st.pop()
                 st.append(first-second)
-            elif c =='*':
+            elif ch == '*':
                 st.append(st.pop()*st.pop())
-            elif c=='/':
+            elif ch == '/':
                 second, first = st.pop(), st.pop()
                 st.append(int(first/second))
             else:
-                st.append(int(c))
+                st.append(int(ch))
         return st[0]
-        
