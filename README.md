@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -188,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
