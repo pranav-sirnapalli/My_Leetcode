@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0054-spiral-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Linked List
 |  |
 | ------- |
