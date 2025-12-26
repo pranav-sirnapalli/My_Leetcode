@@ -9,19 +9,21 @@ class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         if not root:
             return
+        
         res = []
         q = deque([root])
-        
-        while q:
-            val = 0
-            length = len(q)
 
-            for _ in range(length):
+        while q:
+            level_sum = 0
+            level_height = len(q)
+
+            for _ in range(level_height):
                 node = q.popleft()
-                val += node.val
+                level_sum += node.val
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            res.append(val / length)
+            res.append(level_sum / level_height)
         return res
+
