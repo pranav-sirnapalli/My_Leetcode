@@ -11,8 +11,8 @@ class Solution:
         res = {}
         limit = max(len(p_list), len(s_list))
         for i in range(limit):
-            if i > (len(p_list)-1):
-                return False
+            #if i > (len(p_list)-1):
+            #    return False
             if p_list[i] not in res.keys():
                 if s_list[i] in res.values():
                     return False
