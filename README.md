@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0200-number-of-islands) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
