@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
