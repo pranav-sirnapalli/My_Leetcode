@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0832-flipping-an-image) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 ## Simulation
 |  |
