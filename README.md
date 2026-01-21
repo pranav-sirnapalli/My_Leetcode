@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0551-student-attendance-record-i) |
+| [0925-long-pressed-name](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0925-long-pressed-name) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3396-valid-word](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3396-valid-word) |
 ## Array
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0832-flipping-an-image) |
+| [0925-long-pressed-name](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0925-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
