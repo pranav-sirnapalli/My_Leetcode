@@ -15,7 +15,6 @@ class Solution:
         tail2 = list2
         while tail2.next:
             tail2 = tail2.next
-        
         prevA.next = list2
         tail2.next = afterB
         return list1
