@@ -8,19 +8,18 @@ class Solution:
         if not head or not head.next or k == 0:
             return head
         
-        length = 1
         tail = head
+        length = 1
+        
         while tail.next:
             tail = tail.next
             length += 1
         
-        k = k % length
-        if k == 0:
-            return head
-        steps_to_pos = length - k - 1
         tail.next = head
+        k = k % length
+        steps_to_count = length - k - 1
         new_tail = head
-        for _ in range(steps_to_pos):
+        for _ in range(steps_to_count):
             new_tail = new_tail.next
         new_head = new_tail.next
         new_tail.next = None
