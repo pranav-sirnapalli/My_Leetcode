@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2404-most-frequent-even-element](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Geometry
 |  |
 | ------- |
