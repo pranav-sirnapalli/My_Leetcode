@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0290-word-pattern) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
