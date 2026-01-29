@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2540-minimum-common-value) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2698-find-the-array-concatenation-value](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3429-special-array-i](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
