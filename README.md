@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0832-flipping-an-image) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
