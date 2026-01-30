@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1441-build-an-array-with-stack-operations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
