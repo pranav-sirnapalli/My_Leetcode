@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0229-majority-element-ii) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0047-permutations-ii) |
 ## Sliding Window
 |  |
 | ------- |
