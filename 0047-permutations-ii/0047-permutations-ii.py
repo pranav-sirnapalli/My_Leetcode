@@ -12,9 +12,9 @@ class Solution:
                 if nums[i] in seen:
                     continue
                 seen.add(nums[i])
-                nums[start], nums[i] = nums[i], nums[start]
+                nums[i], nums[start] = nums[start], nums[i]
                 backtrack(start+1)
-                nums[start], nums[i] = nums[i], nums[start]
-
+                nums[i], nums[start] = nums[start], nums[i]
+        
         backtrack(0)
         return res
