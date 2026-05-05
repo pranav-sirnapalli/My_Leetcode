@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0118-pascals-triangle) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0389-find-the-difference) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
