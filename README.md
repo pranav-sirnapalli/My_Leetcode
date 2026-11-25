@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -279,11 +280,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0198-house-robber) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0055-jump-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pranav-sirnapalli/My_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Backtracking
